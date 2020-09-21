@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "PlayStation 5",
+            "price": 4999.00,
+            "amount": 0,
+            "description": "O PlayStation 5 será o console mais poderoso quando for anunciado, o que está previsto para 2020. Além da configuração atualizada, trazendo um chip customizado da AMD, virá com SSD embarcado e controle Wifi.",
+            "image": "https://tecnoblog.net/wp-content/uploads/2020/06/sony-playstation-ps5-2-1-700x394.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Xbox Series X",
+            "price": 4399.00,
+            "amount": 0,
+            "description": "Xbox é uma linha de console de videogame doméstico desenvolvida pela Microsoft. É a quarta geração da família de consoles Xbox, foi anunciada pela primeira vez durante a E3 2019.",
+            "image": "https://s2.glbimg.com/vH01lQHtBXM3imyr28qA6dUojiI=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/A/b/kATLHDRqC3TkIywzGyaw/xbox-series-s-especificacoes-tamanho-diferencas.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Nintendo Switch",
+            "price": 3499.00,
+            "amount": 0,
+            "description": "Nintendo Switch é o mais recente console da empresa japonesa Nintendo. Lançado dia 3 de março de 2017, o videogame promete oferecer a potência de um console de mesa unido à praticidade de um portátil.",
+            "image": "https://www.nintendo.com/content/dam/noa/pt_BR/hardware/switch/nintendo-switch-new-package/gallery/bundle_color_console%20(3).jpg"
+        }
+    ]
+}
