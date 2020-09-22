@@ -23,6 +23,46 @@
       "amount": 0,
       "description": "Nintendo Switch é o mais recente console da empresa japonesa Nintendo. Lançado dia 3 de março de 2017, o videogame promete oferecer a potência de um console de mesa unido à praticidade de um portátil.",
       "image": "https://www.nintendo.com/content/dam/noa/pt_BR/hardware/switch/nintendo-switch-new-package/gallery/bundle_color_console%20(3).jpg"
+    },
+    {
+      "id": 4,
+      "name": "PlayStation 4",
+      "price": 1699.99,
+      "amount": 0,
+      "description": "O PlayStation 4, ou PS4 (como é mais conhecido) é um video game da Sony lançado em 2013. O console tem três versões principais: fat, slim e Pro.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_612885-MLA40540552135_012020-O.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Xbox One",
+      "price": 1499.99,
+      "amount": 0,
+      "description": "Xbox One é o console de última geração da Microsoft, lançado no dia 22 de novembro de 2013. O videogame tem duas versões alternativas: Xbox One S, o mesmo console, porém com tamanho slim, e Xbox One X, uma versão mais poderosa capaz de rodar jogos em resolução 4K.",
+      "image": "https://s2.glbimg.com/QcfM1HRhBUiq9S7WBgePobBT7Fg=/0x600/s.glbimg.com/po/tt2/f/original/2015/08/20/xboxone5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nintendo Wii U",
+      "price": 980.90,
+      "amount": 0,
+      "description": "Wii U é o novo videogame sucessor do Wii. O Nintendo Wii U foi lançado no dia 8 de novembro de 2012 nos EUA, chegando ao Japão e Europa um pouco depois.",
+      "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/systems_11/wii_u_11/H2x1_generic_WiiU.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Nintendo 3DS",
+      "price": 599.90,
+      "amount": 0,
+      "description": "O Nintendo 3DS traz o visor 3D que gera games em três dimensões sem necessidade de óculos especiais. O game portátil da Nintendo conta com botão regulador 3D, sensor de movimento e giroscópio, que possibilitam que o jogador controle a intensidade do 3D e movimente jogos compatíveis.",
+      "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/systems_11/nintendo_3ds_28/H2x1_generic_3DS.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 2",
+      "price": 499,
+      "amount": 0,
+      "description": "O PlayStation 2 foi anunciado no Japão em 4 de março de 1999 no Japão, mas chegou ao mercado apenas 1 ano depois e apenas em 2002 aqui no Brasil.",
+      "image": "https://s2.glbimg.com/MK1cSaB_4LQIROPvG72nKW3vaR8=/850x446/s.glbimg.com/po/tt/f/original/2013/01/07/playstation-2-ps2-fim-encerra-producao.jpg"
     }
   ]
 }
